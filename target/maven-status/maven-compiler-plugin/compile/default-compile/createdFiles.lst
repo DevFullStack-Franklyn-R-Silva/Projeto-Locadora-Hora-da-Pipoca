@@ -1,0 +1,6 @@
+model\Filme.class
+Locadora\view\TelaPrincipal.class
+model\Cliente.class
+model\Ator.class
+model\Item.class
+Locadora\view\TelaPrincipal$1.class
